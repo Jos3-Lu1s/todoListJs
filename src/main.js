@@ -1,3 +1,7 @@
 import './style.css'
+import { App } from './todos/app';
 
-console.log("HolaMundo");
+import todoStore from "./store/todo.store";
+
+todoStore.initStore();
+App("#app");
