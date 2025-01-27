@@ -2,6 +2,8 @@
 
 ![Imagen del proyecto](public/TodoListbanner.jpg)
 
+Visualiza la aplicacion de [***TodoList***](https://jos3-lu1s.github.io/todoListJs/ "TodoListApp").
+
 Este proyecto es una aplicación de lista de tareas construida con **JavaScript** y **Vite**. Permite al usuario agregar, eliminar y filtrar tareas (completadas o pendientes) y almacena los datos utilizando **Local Storage** para que las tareas persistan incluso al recargar la página.
 
 ## Características
